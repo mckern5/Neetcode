@@ -1,0 +1,115 @@
+coding interview patterns: nail your next coding interview
+
+two pointers
+pair_sum-sorted
+triplet sum
+is palidrome valud
+largest container
+
+hash maps and sets
+pair sum-unsorted
+verify sudoku board
+zero striping
+
+ll
+ll reversal
+remove the kth last node from a linked lists
+linked list intersection
+lru cache
+
+fast and slow pointers
+linked list loop
+linked list midpoint
+happy number
+
+sliding windows
+substring algorithms
+longest substring with unique characters
+longest uniform substring after replacement
+
+binary search
+find the insertion index
+first and last occurences of a number
+cutting wood
+find the target in a rotated sorted array
+
+stacks
+valid parenthesis expression
+next largest number to the right
+evaluate expression
+
+heaps
+k most frequesnt strings
+combine sorted linked lists
+median of an integer stream
+
+intervals
+merge overlapping intervals
+identify all interval overlaps
+largest overlap of intervals
+
+prefix sums
+sum between range
+k-sum subarrays
+product array without current element
+
+trees
+invert binary tree
+balanced binary tree validation
+rightmost nodes of a binary tree
+widest binary tree validation
+bst validation
+lowest common ancestor
+build a binary tree from preorder and inorder traversals
+max sum of a continuous path in a binary tree
+
+tries
+design a trie
+insert and search words with wildcards
+find all words on a board
+
+
+graphs
+graph deep copy
+count islands
+matrix infection
+bipartite graph validation
+longest increasing path
+shortest tranformation sequence
+mergins communities
+
+backtracking
+find all permuatations
+find all subsets  , gfg, neetcode too
+N queens
+
+dynamic programming
+climbing stairs
+minimimum coin combinations
+matrix pathways
+neigborhood burglary
+longest commond subsequence
+longest palindrom in a string
+max subarray sum
+0/1 knapsack
+
+greedy
+jump to end
+gas stations
+candies
+
+sort and search
+sort linked list
+sort array
+kth largest integer
+
+
+bit manipulation
+hamming weights of integers
+lonely integer
+swap odd and even bits
+
+math and geometry
+spiral traversal 
+reverse 32 bit integer
+maximum coliner points
